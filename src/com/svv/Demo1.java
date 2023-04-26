@@ -15,6 +15,7 @@ public class Demo1 {
 		lines.forEach(System.out::println);
 		// git test new commend added by other developer
 		// git test new commend added by other developer
+		// new line added by shibin
 	}
 
 }
