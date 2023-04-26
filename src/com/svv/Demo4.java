@@ -14,6 +14,8 @@ public class Demo4 {
 		bfrReader.lines().parallel().distinct().forEach(System.out::println);
 		
 		// take advantages using multi core
+		
+		// changes done by other developer
 	}
 
 }
