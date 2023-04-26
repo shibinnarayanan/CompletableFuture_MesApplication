@@ -13,6 +13,7 @@ public class Demo1 {
 		BufferedReader br = Files.newBufferedReader(Paths.get("FP Demo.txt"));
 		Stream<String> lines = br.lines();
 		lines.forEach(System.out::println);
+		// git test new commend added by other developer
 	}
 
 }
